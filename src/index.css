@@ -148,7 +148,7 @@ body::-webkit-scrollbar-track {
 
 .movieCards {
   width: 200px;
-  height: auto;
+  height: 300px;
   overflow: hidden;
   border-radius: 0.5rem;
   flex: 0 0 auto;

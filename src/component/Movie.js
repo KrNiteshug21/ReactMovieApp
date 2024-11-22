@@ -4,7 +4,7 @@ import "../index.css";
 
 const Movie = ({ asset, link }) => {
   const [hover, setHover] = useState(false);
-  const moviePosterUrl = "https:image.tmdb.org/t/p/w500";
+  const moviePosterUrl = "https://image.tmdb.org/t/p/w500";
   const showsPosterUrl = "https://image.tmdb.org/t/p/w185";
   const posterUrl = "https://image.tmdb.org/t/p/w342";
 
